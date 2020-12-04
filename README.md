@@ -1,6 +1,6 @@
 # SASS Starter
 
-This starter project was made to work with node-sass settings implementing the 7-1 pattern architecture, all bassic settings has been done and it's ready to work on it.
+This starter project was made to work with node-sass settings implementing the [7-1 pattern architecture](https://github.com/AngelCruzL/SASS-Starter/blob/main/7-1-pattern-structure.md), all bassic settings has been done and it's ready to work on it.
 
 ## Usage
 
